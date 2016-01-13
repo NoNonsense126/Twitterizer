@@ -58,8 +58,6 @@
 		81B9CF4E1C46F31800C12090 /* Twitterizer */ = {
 			isa = PBXGroup;
 			children = (
-				81B9CF521C46F31800C12090 /* AppDelegate.h */,
-				81B9CF531C46F31800C12090 /* AppDelegate.m */,
 				81B9CF551C46F31800C12090 /* ViewController.h */,
 				81B9CF561C46F31800C12090 /* ViewController.m */,
 				81B9CF581C46F31800C12090 /* Main.storyboard */,
@@ -74,6 +72,8 @@
 		81B9CF4F1C46F31800C12090 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				81B9CF521C46F31800C12090 /* AppDelegate.h */,
+				81B9CF531C46F31800C12090 /* AppDelegate.m */,
 				81B9CF501C46F31800C12090 /* main.m */,
 			);
 			name = "Supporting Files";
